@@ -40,4 +40,4 @@ The following image shows the web application's appearance and functionality:
 
 The page can be found at <giancarlow333.github.io/challenge-01>.
 
-You can also click [this link](https://youtu.be/P4Mu1t5rIXg) to view the page.
+You can also click [this link](https://giancarlow333.github.io/challenge-01) to view the page.
